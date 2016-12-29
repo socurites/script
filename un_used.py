@@ -39,3 +39,4 @@ def is_ignore(str):
 
 if __name__ == '__main__':
     find_un_used()
+    return 'aa'
